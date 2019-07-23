@@ -18,7 +18,7 @@ __Group Members:__
 
 ##### [Data Source and Project Overview](https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data)
 ![PUBG](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/PUBG.png)
-### [Project 2: PUBG Match Death and Statitics]
+### [Project 2: PUBG Match Death and Statitics](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/edit/master/README.md)
 #### 1. Dataset Introduction
 PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. In the dataset, we are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. A detailed description of variables can be found [HERE](https://www.kaggle.com/skihikingkevin/pubg-match-deaths).
 #### 2. EDA
