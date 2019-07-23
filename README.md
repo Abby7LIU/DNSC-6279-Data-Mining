@@ -10,7 +10,6 @@ __Group Members:__
 - Xinrong Chen
 - Jingyi Liu
 
-![shopper](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/Shpper.png)
 ### Project 1: Acquire Valued Shoppers Challenge
 - [Basic Data Prepararion](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/A01.ipynb)
 - [Classification with logistic regression](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/A02.ipynb)
@@ -18,3 +17,6 @@ __Group Members:__
 - [Clustering and PCA](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/A04.ipynb)
 
 ##### [Data Source and Project Overview](https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data)
+
+### [Project 2: PUBG Match Death and Statitics]
+
