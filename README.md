@@ -40,3 +40,6 @@ The score of the kaggle is MAE of the models.
 - Logistic Regression 0.16248
 - Gradient boosting machine: 0.05671
 - Multilayer perceptron Model: 0.08020
+#### 6. Recommendation
+Our best model GBM shows the 5 best variables are totalDistance, killPlace(the rank of player kills), weaponAcquired, Boosts(number of boost item used) and heals.
+So our suggestion for this game’s player is: being active on moving and killing.
