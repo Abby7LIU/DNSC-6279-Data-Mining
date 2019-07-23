@@ -20,7 +20,7 @@ __Group Members:__
 ![PUBG](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/PUBG.png)
 ### [Project 2: PUBG Match Death and Statitics](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/edit/master/README.md)
 #### 1. Dataset Introduction
-PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. In the dataset, we are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. A detailed description of variables can be found [HERE](https://www.kaggle.com/skihikingkevin/pubg-match-deaths).
+PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. In the dataset, we are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. A detailed description of variables can be found __[HERE](https://www.kaggle.com/skihikingkevin/pubg-match-deaths).__
 #### 2. EDA
 1. Plot the histogram, get familiar with the property of each variable
 2. Match type matters: The game has 4 modes: solo, double and square. The relationship of independent variables and win percent differs in different match types. 
