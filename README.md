@@ -19,4 +19,4 @@ __Group Members:__
 ##### [Data Source and Project Overview](https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data)
 
 ### [Project 2: PUBG Match Death and Statitics]
-
+![PUBG](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/PUBG.png)
