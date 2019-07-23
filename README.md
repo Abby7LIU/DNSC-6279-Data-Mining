@@ -20,10 +20,11 @@ __Group Members:__
 ![PUBG](https://github.com/Abby7LIU/DNSC-6279-Data-Mining/blob/master/PUBG.png)
 ### [Project 2: PUBG Match Death and Statitics]
 #### 1. Dataset Introduction
-PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. In the dataset, we are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. A detailed description of variables can be found from the following [HERE](https://www.kaggle.com/skihikingkevin/pubg-match-deaths)
+PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. In the dataset, we are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. A detailed description of variables can be found [HERE](https://www.kaggle.com/skihikingkevin/pubg-match-deaths).
 #### 2. EDA
-(1) Plot the histogram, get familiar with the property of each variable
-(2) Match type matters: The game has 4 modes: solo, double and square. The relationship of independent variables and win percent differs in different match types. (3) Using heat map, we identify 4 the most correlated variables as 'totaldistance', 'boots', 'weaponAcquired' and 'damageDealt'
+1. Plot the histogram, get familiar with the property of each variable
+2. Match type matters: The game has 4 modes: solo, double and square. The relationship of independent variables and win percent differs in different match types. 
+3. Using heat map, we identify 4 the most correlated variables as 'totaldistance', 'boots', 'weaponAcquired' and 'damageDealt'
 #### 3. Data preparation
 - __Dimension Reduction:__  The original dataset has 27 independent variables which should be reduced. We identify 3 similar variables 'rideDistance', 'walkdistance' and 'swimdistance'. We merged them into one variable 'totaldistance'
 - __Removing outliers:__  Remove the records showing the player kill others without moving as it is unreasonable.
