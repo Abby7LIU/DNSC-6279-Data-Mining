@@ -10,3 +10,5 @@ __Group Members:__
 - Xinrong Chen
 - Jingyi Liu
 
+### Project: Acquire Valued Shoppers Challenge
+[__Data Source and Project Overview__](https://www.kaggle.com/c/acquire-valued-shoppers-challenge/data)
